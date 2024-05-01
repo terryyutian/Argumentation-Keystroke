@@ -11,4 +11,4 @@ This repository contains the 99 persuasive texts, the corresponding keystroke lo
 
 Please refer to the paper below for a detailed description of the dataset and the context of its construction:
 
-Tian, Y., Kim, M., & Crossley, S. (2024). Making sense of L2 written argumentation with keystroke logging. Journal of Writing Research, 15(3), 435-461.
+[Tian, Y., Kim, M., & Crossley, S. (2024). Making sense of L2 written argumentation with keystroke logging. _Journal of Writing Research_, 15(3), 435-461.](https://jowr.org/pkp/ojs/index.php/jowr/article/view/920)
